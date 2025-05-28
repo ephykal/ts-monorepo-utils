@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+
+# Build output
+dist/
+
+# Logs
+*.log
+logs/
+
+# Env files
+.env
+.env.*.local
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Test cache and coverage
+coverage/
+*.tsbuildinfo
+
+
+#npm ignore
+.npmignore
+lerna-debug.log

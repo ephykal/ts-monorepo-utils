@@ -1,0 +1,32 @@
+{
+  "name": "@ephykal/operations-utils",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "ephykal <ephraimolu6@gmail.com>",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "homepage": "",
+  "license": "ISC",
+  "directories": {
+    "src": "src",
+    "test": "tests"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "jest ./tests",
+    "build": "tsup"
+  },
+  "keywords": [
+    "math",
+    "operations",
+    "math-operations",
+    "arithmetic-operations"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
