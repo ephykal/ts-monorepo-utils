@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
-  "homepage": "",
+  "homepage": "https://github.com/ephykal/ts-monorepo-utils#readme",
   "license": "ISC",
   "directories": {
     "src": "src",
@@ -26,6 +26,13 @@
     "math-operations",
     "arithmetic-operations"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ephykal/ts-monorepo-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ephykal/ts-monorepo-utils/issues"
+  },
   "publishConfig": {
     "access": "public"
   }

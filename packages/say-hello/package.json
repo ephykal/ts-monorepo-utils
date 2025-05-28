@@ -27,6 +27,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ephykal/ts-monorepo-utils.git",
+  },
+  "homepage": "https://github.com/ephykal/ts-monorepo-utils#readme",
+  "bugs": {
+    "url": "https://github.com/ephykal/ts-monorepo-utils/issues"
+  }
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
